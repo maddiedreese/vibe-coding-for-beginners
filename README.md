@@ -45,7 +45,7 @@ Once I have that, I move into my tool of choice.
 
 If you’re new to vibe coding, start with one of these.
 
-### [Lovable.dev](https://lovable.dev)
+### [Lovable.dev](https://lovable.dev/?via=maddie)
 
 Lovable is the easiest starting point. It’s designed for building fast while still producing real, working web apps.  
 You can use AI to scaffold your app, connect a backend, or integrate an API — without getting lost in setup.

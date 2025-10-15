@@ -50,7 +50,7 @@ If you’re new to vibe coding, start with one of these.
 Lovable is the easiest starting point. It’s designed for building fast while still producing real, working web apps.  
 You can use AI to scaffold your app, connect a backend, or integrate an API — without getting lost in setup.
 
-### [Bolt.new](https://bolt.new)
+### [Bolt.new](https://bolt.new/?rid=fnvgwa)
 
 Bolt is great for semi-technical projects. You’ll probably open a terminal at least once, but the visual interface keeps you from getting bogged down.  
 I use it for websites and apps that need a little backend logic but don’t require a full-stack setup.
